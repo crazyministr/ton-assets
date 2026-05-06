@@ -12548,6 +12548,11 @@
   "symbol": "GH"
  },
  {
+  "address": "0:0ef4754f730ba1898c253816ac9d90fc877c87f6611600889cc0d361e09d2121",
+  "name": "Durov Girls",
+  "symbol": "GIRLS"
+ },
+ {
   "address": "0:b068e5a95afc6587ef9568225291ff08e71126b825ca2a45ee18cdcff4f02425",
   "name": "GLITCH",
   "symbol": "GLITCH"
@@ -12801,6 +12806,11 @@
   "address": "0:574736adc6bc8a2a75ba98d184662105306113eb9e56e3444ec75aa764ff92ff",
   "name": "LUPA",
   "symbol": "LUPA"
+ },
+ {
+  "address": "0:0e20fc75746d70b71952a81d5f956eea65c21cd21a791357fd296662e3480d7a",
+  "name": "Durov's Favorite Pet",
+  "symbol": "LYNX"
  },
  {
   "address": "0:741ba8cfd2f0d20cc84ec5bc37d557fc65fccbf2fcbfd6f72b679c24594185ad",
